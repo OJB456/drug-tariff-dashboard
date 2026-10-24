@@ -1,0 +1,5 @@
+﻿Consolidated records: 606233
+Historical records: 601520
+June records added: 4713
+Distinct products: 9777
+Categories: Part VIIIA Category C; Part VIIIA Category A; Part VIIIA Category M; Part VIIIA Category H; Part VIIIB; Part VIIID
